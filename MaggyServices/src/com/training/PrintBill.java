@@ -27,7 +27,7 @@ public class PrintBill {
 	}
 	@Override
 	public String toString() {
-		return "PrintBill [service=" + service + ", amt=" + amt + "]";
+		return "Service=" + service + ", amt=" + amt + "]";
 	}
 	
 	
