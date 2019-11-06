@@ -6,6 +6,11 @@ public class Zomato {
 	private String tagline;
 	private double revenue;
 	
+	
+	
+	public Zomato() {
+		super();
+	}
 	public Zomato(long id, String tagline, double revenue) {
 		super();
 		this.id = id;
